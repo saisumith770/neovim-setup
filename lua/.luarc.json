@@ -1,0 +1,27 @@
+{
+    "workspace.library": [
+        "/home/saisumith/.config/nvim",
+        "/home/saisumith/.local/share/nvim/site",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/Comment.nvim",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/LuaSnip",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/catppuccin",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/mason.nvim",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/nvim-cmp",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/telescope.nvim",
+        "/home/linuxbrew/.linuxbrew/Cellar/neovim/0.9.1/share/nvim/runtime",
+        "/home/linuxbrew/.linuxbrew/Cellar/neovim/0.9.1/share/nvim/runtime/pack/dist/opt/matchit",
+        "/home/linuxbrew/.linuxbrew/Cellar/neovim/0.9.1/lib/nvim",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/catppuccin/after",
+        "/home/saisumith/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after",
+        "${3rd}/luassert/library"
+    ]
+}
