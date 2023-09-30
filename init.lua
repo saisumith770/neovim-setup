@@ -92,15 +92,9 @@ return require('packer').startup(function(use)
         requires = { 'nvim-tree/nvim-web-devicons' }
     }
 
-    use {
-        'vim-airline/vim-airline',
-    }
+    use 'vim-airline/vim-airline'
 
-    use {
-        'vim-airline/vim-airline-themes',
-    }
+    use 'vim-airline/vim-airline-themes'
 
-    use {
-        'jiangmiao/auto-pairs',
-    }
+    use 'jiangmiao/auto-pairs'
 end)
