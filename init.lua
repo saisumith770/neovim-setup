@@ -99,4 +99,8 @@ return require('packer').startup(function(use)
     use {
         'vim-airline/vim-airline-themes',
     }
+
+    use {
+        'jiangmiao/auto-pairs',
+    }
 end)
