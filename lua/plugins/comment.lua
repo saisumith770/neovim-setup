@@ -1,5 +1,5 @@
 require('Comment').setup({
- ---Add a space b/w comment and the line
+    ---Add a space b/w comment and the line
     padding = true,
     ---Whether the cursor should stay at its position
     sticky = true,
@@ -12,7 +12,7 @@ require('Comment').setup({
         ---Block-comment toggle keymap
         block = '<leader>/',
     },
-    ---LHS of operator-pending mappings in NORMAL and VISUAL mode
+    -- -LHS of operator-pending mappings in NORMAL and VISUAL mode
     opleader = {
         ---Line-comment toggle keymap
         line = '<C-_>',

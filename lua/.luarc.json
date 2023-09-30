@@ -22,6 +22,8 @@
         "/home/linuxbrew/.linuxbrew/Cellar/neovim/0.9.1/lib/nvim",
         "/home/saisumith/.local/share/nvim/site/pack/packer/start/catppuccin/after",
         "/home/saisumith/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after",
+        "${3rd}/luassert/library",
+        "${3rd}/luassert/library",
         "${3rd}/luassert/library"
     ]
 }
