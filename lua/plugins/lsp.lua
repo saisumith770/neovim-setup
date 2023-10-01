@@ -88,11 +88,6 @@ util = require "lspconfig/util"
 lspconfig.dartls.setup {
 }
 
-lspconfig.jdtls.setup {
-    cmd = { '/home/linuxbrew/.linuxbrew/bin/jdtls' },
-    -- root_dir = vim.fs.dirname(vim.fs.find({ 'gradlew', '.git', 'mvnw' }, { upward = true })[1]),
-}
-
 lspconfig.gopls.setup {
     cmd = { "gopls", "serve" },
     filetypes = { "go", "gomod" },
